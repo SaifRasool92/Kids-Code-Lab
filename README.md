@@ -10,13 +10,12 @@ This repository provides free, high quality resources to help children build log
 
 ## 🎯 Who Is This For?
 
-• Kids age 8+
-• Absolute beginners
-• School students
-• Parents and teachers
-• Young learners who want structured guidance
+- Kids age 8+
+- Absolute beginners
+- School students
+- Parents and teachers
+- Young learners who want structured guidance
 
----
 
 # 🥇 1. Start Here – Code in Place (Stanford University)
 
@@ -27,29 +26,27 @@ This repository provides free, high quality resources to help children build log
 Offered by Stanford University, Code in Place is one of the best free beginner friendly programming programs.
 
 It teaches:
-• Programming methodology
-• Logical thinking
-• Problem solving
-• Python fundamentals
+- Programming methodology
+- Logical thinking
+- Problem solving
+- Python fundamentals
 
----
+
 
 ## 🤖 Karel the Robot (Most Important Foundation)
-
-🔗 [https://stanford.edu/~cpiech/karel/ide.html](https://stanford.edu/~cpiech/karel/ide.html)
 
 Karel is the best starting point for learning programming logic.
 
 Why start with Karel?
 
-• No complicated syntax
-• Focus on thinking
-• Teaches loops, conditions, functions
-• Builds strong foundation before Python
+- No complicated syntax
+- Focus on thinking
+- Teaches loops, conditions, functions
+- Builds strong foundation before Python
 
 After mastering Karel, learning Python becomes much easier.
 
----
+
 
 # 🥈 2. Scratch (Visual Programming for Kids)
 
@@ -58,18 +55,18 @@ After mastering Karel, learning Python becomes much easier.
 Scratch is perfect for younger kids.
 
 It teaches:
-• Logic building
-• Events
-• Loops
-• Conditionals
-• Game creation
+- Logic building
+- Events
+- Loops
+- Conditionals
+- Game creation
 
 Kids can build:
-• Animations
-• Games
-• Interactive stories
+- Animations
+- Games
+- Interactive stories
 
----
+
 
 # 🥉 3. Python for Kids (Text Based Coding)
 
@@ -79,18 +76,18 @@ Kids can build:
 After Karel and Scratch, move to Python.
 
 Start with:
-• Variables
-• Input and output
-• If statements
-• Loops
-• Functions
+- Variables
+- Input and output
+- If statements
+- Loops
+- Functions
 
 Build small projects like:
-• Number guessing game
-• Simple calculator
-• Quiz app
+- Number guessing game
+- Simple calculator
+- Quiz app
 
----
+
 
 # 🎮 4. Fun Learning & Revision Platforms
 
@@ -107,11 +104,11 @@ Gamified quizzes to test understanding.
 Interactive quiz based learning with fun competition.
 
 Use these to:
-• Revise coding concepts
-• Make workshops interactive
-• Keep students engaged
+- Revise coding concepts
+- Make workshops interactive
+- Keep students engaged
 
----
+
 
 # 🚀 5. Beginner Friendly Coding Platforms
 
@@ -127,7 +124,7 @@ Use these to:
 
 🔗 [https://leetcode.com](https://leetcode.com)
 
----
+
 
 # 🧠 Suggested Learning Path
 
@@ -139,7 +136,7 @@ Use these to:
 
 Consistency is more important than speed.
 
----
+
 <!--
 # 📂 Suggested Folder Structure
 
