@@ -1,5 +1,3 @@
-
-
 # Learn Coding for Kids – Step by Step Guide
 
 A beginner friendly, structured coding roadmap for kids who want to start programming from zero.
@@ -8,7 +6,7 @@ This repository provides free, high quality resources to help children build log
 
 ---
 
-## 🎯 Who Is This For?
+## Who Is This For?
 
 - Kids age 8+
 - Absolute beginners
@@ -17,11 +15,11 @@ This repository provides free, high quality resources to help children build log
 - Young learners who want structured guidance
 
 
-# 🥇 1. Start Here – Code in Place (Stanford University)
+# 1. Start Here – Code in Place (Stanford University)
 
-## 🔹 Code in Place
+## Code in Place
 
-🔗 [https://codeinplace.stanford.edu](https://codeinplace.stanford.edu)
+[https://codeinplace.stanford.edu](https://codeinplace.stanford.edu)
 
 Offered by Stanford University, Code in Place is one of the best free beginner friendly programming programs.
 
@@ -33,7 +31,7 @@ It teaches:
 
 
 
-## 🤖 Karel the Robot (Most Important Foundation)
+## Karel the Robot (Most Important Foundation)
 
 Karel is the best starting point for learning programming logic.
 
@@ -48,9 +46,9 @@ After mastering Karel, learning Python becomes much easier.
 
 
 
-# 🥈 2. Scratch (Visual Programming for Kids)
+# 2. Scratch (Visual Programming for Kids)
 
-🔗 [https://scratch.mit.edu](https://scratch.mit.edu)
+[https://scratch.mit.edu](https://scratch.mit.edu)
 
 Scratch is perfect for younger kids.
 
@@ -68,10 +66,10 @@ Kids can build:
 
 
 
-# 🥉 3. Python for Kids (Text Based Coding)
+# 3. Python for Kids (Text Based Coding)
 
-🔗 [https://www.python.org](https://www.python.org)
-🔗 [https://replit.com](https://replit.com)
+[https://www.python.org](https://www.python.org)
+[https://replit.com](https://replit.com)
 
 After Karel and Scratch, move to Python.
 
@@ -89,17 +87,17 @@ Build small projects like:
 
 
 
-# 🎮 4. Fun Learning & Revision Platforms
+# 4. Fun Learning & Revision Platforms
 
 ## Kahoot
 
-🔗 [https://kahoot.com](https://kahoot.com)
+[https://kahoot.com](https://kahoot.com)
 
 Gamified quizzes to test understanding.
 
 ## Blooket
 
-🔗 [https://www.blooket.com](https://www.blooket.com)
+[https://www.blooket.com](https://www.blooket.com)
 
 Interactive quiz based learning with fun competition.
 
@@ -110,23 +108,23 @@ Use these to:
 
 
 
-# 🚀 5. Beginner Friendly Coding Platforms
+# 5. Beginner Friendly Coding Platforms
 
 ## Code.org
 
-🔗 [https://code.org](https://code.org)
+[https://code.org](https://code.org)
 
 ## CS First by Google
 
-🔗 [https://csfirst.withgoogle.com](https://csfirst.withgoogle.com)
+[https://csfirst.withgoogle.com](https://csfirst.withgoogle.com)
 
 ## LeetCode (For Advanced Kids)
 
-🔗 [https://leetcode.com](https://leetcode.com)
+[https://leetcode.com](https://leetcode.com)
 
 
 
-# 🧠 Suggested Learning Path
+# Suggested Learning Path
 
 1. Karel for logic building
 2. Scratch for creativity
@@ -138,7 +136,7 @@ Consistency is more important than speed.
 
 
 <!--
-# 📂 Suggested Folder Structure
+# Suggested Folder Structure
 
 01-Karel
 02-Scratch
